@@ -1,0 +1,5 @@
+# put DATA_TEST, DATASET, segmented_objects_precise in .gitignore
+DATA_TEST/
+DATASET/
+segmented_objects_precise/
+```
